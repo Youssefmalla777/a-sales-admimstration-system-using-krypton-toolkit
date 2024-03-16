@@ -1,0 +1,20 @@
+C:\Users\High Tech\Desktop\projects\invoice programm with krypton toolkit\bin\Debug\invoice programm with krypton toolkit.exe.config
+C:\Users\High Tech\Desktop\projects\invoice programm with krypton toolkit\bin\Debug\invoice programm with krypton toolkit.exe
+C:\Users\High Tech\Desktop\projects\invoice programm with krypton toolkit\bin\Debug\invoice programm with krypton toolkit.pdb
+C:\Users\High Tech\Desktop\projects\invoice programm with krypton toolkit\bin\Debug\ComponentFactory.Krypton.Docking.dll
+C:\Users\High Tech\Desktop\projects\invoice programm with krypton toolkit\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+C:\Users\High Tech\Desktop\projects\invoice programm with krypton toolkit\bin\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\High Tech\Desktop\projects\invoice programm with krypton toolkit\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\High Tech\Desktop\projects\invoice programm with krypton toolkit\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+C:\Users\High Tech\Desktop\projects\invoice programm with krypton toolkit\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+C:\Users\High Tech\Desktop\projects\invoice programm with krypton toolkit\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+C:\Users\High Tech\Desktop\projects\invoice programm with krypton toolkit\bin\Debug\ComponentFactory.Krypton.Ribbon.pdb
+C:\Users\High Tech\Desktop\projects\invoice programm with krypton toolkit\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\High Tech\Desktop\projects\invoice programm with krypton toolkit\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+C:\Users\High Tech\Desktop\projects\invoice programm with krypton toolkit\obj\Debug\invoice programm with krypton toolkit.csprojResolveAssemblyReference.cache
+C:\Users\High Tech\Desktop\projects\invoice programm with krypton toolkit\obj\Debug\invoice_programm_with_krypton_toolkit.Form1.resources
+C:\Users\High Tech\Desktop\projects\invoice programm with krypton toolkit\obj\Debug\invoice_programm_with_krypton_toolkit.Properties.Resources.resources
+C:\Users\High Tech\Desktop\projects\invoice programm with krypton toolkit\obj\Debug\invoice programm with krypton toolkit.csproj.GenerateResource.Cache
+C:\Users\High Tech\Desktop\projects\invoice programm with krypton toolkit\obj\Debug\invoice programm with krypton toolkit.exe
+C:\Users\High Tech\Desktop\projects\invoice programm with krypton toolkit\obj\Debug\invoice programm with krypton toolkit.pdb
+C:\Users\High Tech\Desktop\projects\invoice programm with krypton toolkit\obj\Debug\invoice_programm_with_krypton_toolkit.youssef.resources
